@@ -7,7 +7,7 @@ OUTPUT_FORMAT("elf32-bigarm", "elf32-bigarm",
 	      "elf32-littlearm")
 OUTPUT_ARCH(arm)
 ENTRY(_start)
-SEARCH_DIR("=/home/zefie/dev/toolchains/uber/out/aarch64-linux-android-6.x/aarch64-linux-android/lib");
+SEARCH_DIR("=/home/zefie/g6dev/toolchains/uber/out/aarch64-linux-android-6.x/aarch64-linux-android/lib");
 SECTIONS
 {
   /* Read-only sections, merged into text segment: */

@@ -2,7 +2,7 @@
 
     It has been auto-edited by fixincludes from:
 
-	"/home/zefie/dev/toolchains/uber/out/aarch64-linux-android-6.x/arch-arm64/usr/include/linux/a.out.h"
+	"/home/zefie/g6dev/toolchains/uber/out/aarch64-linux-android-6.x/arch-arm64/usr/include/linux/a.out.h"
 
     This had to be done to correct non-standard usages in the
     original, manufacturer supplied header file.  */

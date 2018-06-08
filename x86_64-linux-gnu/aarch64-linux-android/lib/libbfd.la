@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/home/zefie/dev/toolchains/uber/out/aarch64-linux-android-6.x/x86_64-linux-gnu/aarch64-linux-android/lib'
+libdir='/home/zefie/g6dev/toolchains/uber/out/aarch64-linux-android-6.x/x86_64-linux-gnu/aarch64-linux-android/lib'

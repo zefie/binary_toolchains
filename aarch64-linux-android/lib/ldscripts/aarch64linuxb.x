@@ -7,7 +7,7 @@ OUTPUT_FORMAT("elf64-bigaarch64", "elf64-bigaarch64",
 	      "elf64-littleaarch64")
 OUTPUT_ARCH(aarch64)
 ENTRY(_start)
-SEARCH_DIR("=/home/zefie/dev/toolchains/uber/out/aarch64-linux-android-6.x/aarch64-linux-android/lib64"); SEARCH_DIR("=/usr/local/lib64"); SEARCH_DIR("=/lib64"); SEARCH_DIR("=/usr/lib64"); SEARCH_DIR("=/home/zefie/dev/toolchains/uber/out/aarch64-linux-android-6.x/aarch64-linux-android/lib"); SEARCH_DIR("=/usr/local/lib"); SEARCH_DIR("=/lib"); SEARCH_DIR("=/usr/lib");
+SEARCH_DIR("=/home/zefie/g6dev/toolchains/uber/out/aarch64-linux-android-6.x/aarch64-linux-android/lib64"); SEARCH_DIR("=/usr/local/lib64"); SEARCH_DIR("=/lib64"); SEARCH_DIR("=/usr/lib64"); SEARCH_DIR("=/home/zefie/g6dev/toolchains/uber/out/aarch64-linux-android-6.x/aarch64-linux-android/lib"); SEARCH_DIR("=/usr/local/lib"); SEARCH_DIR("=/lib"); SEARCH_DIR("=/usr/lib");
 SECTIONS
 {
   /* Read-only sections, merged into text segment: */
